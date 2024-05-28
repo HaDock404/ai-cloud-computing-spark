@@ -1,2 +1,4 @@
 .DS_Store
 train/data/fruits/*
+train/data/Test1/*
+train/data/results/*
