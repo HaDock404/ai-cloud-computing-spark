@@ -27,7 +27,7 @@ In this project, we present the architecture and deployment method of Spark in a
 git clone https://github.com/HaDock404/ai-cloud-computing-spark.git
 cd ai-cloud-computing-spark
 pip install -r ./train/packages/requirements.txt
-open ./train/notebook.ipynb
+open ./train/local_notebook.ipynb
 ```  
 
 ## Contributing
